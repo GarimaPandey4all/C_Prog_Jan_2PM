@@ -1,0 +1,43 @@
+C Programming Language
+
+Programming: Set of Instructions/Statements
+
+Language: Medium of communication
+
+
+Human						Computer
+English(C)		Compiler		Binary - 2 (1 or 0)
+
+Compiler = Translator
+
+English convert into Binary
+Binary convert into English
+
+English (C)				Binary
+High Level Lanaguge			Low Level Language
+
+
+Compiler: HLL to LLL
+	  LLL to HLL
+
+
+binary code: machine code / native code / object code
+
+Binary - 2 (1 or 0)
+
+Computer: Electronic Device ----> Current Flow (1) ---> No current flow (0)
+
+Code Editor:
+
+1. Turbo C++
+2. Code::Blocks
+
+
+
+
+
+
+
+
+
+

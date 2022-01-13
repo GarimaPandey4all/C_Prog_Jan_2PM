@@ -1,0 +1,42 @@
+C Programming Language
+
+Programming: set of instructions/statements
+
+Language: Medium of communication
+
+Human 						Computer
+English		Compiler/Translator		Binary- 2 (0 or 1)
+High LL						Low LL
+
+
+Compiler: source code(.c) converted it into machine code/binary code/native code/object code
+
+Compiler: Translate english into binary
+	binary into english
+
+Computer system: electronic device ---> current flow (1)  ---> No current flow (0)
+
+1. Turbo c++
+2. code::blocks
+
+Commnet: It is used to describe the code and also ignored by compiler.
+
+1. Single line comment
+//example of hello world
+
+2. Mutiple line comment
+/*
+	example of hello world
+	example of hello world
+	example of hello world
+	example of hello world
+	example of hello world
+*/
+
+
+
+
+
+
+
+
