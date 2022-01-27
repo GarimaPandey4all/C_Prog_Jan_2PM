@@ -14,7 +14,7 @@ int main()
     //void - null or empty
 
     printf("A is: %d\n", a);
-    printf("B is: %.2f\n", b);
+    printf("B is: %.1f\n", b);
     printf("C is: %.2lf\n", c); // lf- long float
     printf("CH is: %c\n", ch);
 
